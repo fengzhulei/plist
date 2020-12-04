@@ -1,4 +1,4 @@
-module howett.net/plist
+module github.com/fengzhulei/plist
 
 require (
 	// for cmd/ply
